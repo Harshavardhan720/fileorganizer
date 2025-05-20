@@ -1,0 +1,1 @@
+I have created a file organizer which arranges the files which are in the folder, which means after selecting the folder the selected folder will have sub-folders named by there extensions and all the files will be moved to there respective folder by there extension.But remember while installation all files downloaded from git-hub should be avaliable.
